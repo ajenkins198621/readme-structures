@@ -9,3 +9,6 @@
 - Usage
 - API
 - Development/Contribution
+
+## READMEs that I like:
+- https://github.com/markusenglund/react-switch/blob/master/README.md
